@@ -1,5 +1,5 @@
 <template>
-  <h1>Feedbacks</h1>
+  <h1>Credentials</h1>
 </template>
 
 <script>
